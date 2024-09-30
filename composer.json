@@ -9,6 +9,12 @@
     "udx/lib-ud-api-client": "~1.2",
     "ccampbell/chromephp": "^4.1"
   },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repository.usabilitydynamics.com"
+    }
+  ],
   "require-dev": {
     "php": ">=5.5",
     "codeclimate/php-test-reporter": "~0.1"
